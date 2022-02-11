@@ -12,5 +12,5 @@ It was little bit tricky to upload the csv files as I did it with python coding.
 Based on the questions asked, I can say that there has been sufficient information.
 
 
-## NB: Please, note that I did not learn it in my university, rather I learnt it by myself. ##
+### NB: Please, note that I did not learn it in my university, rather I learnt it by myself as a part of a project.
 
